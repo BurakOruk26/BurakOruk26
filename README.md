@@ -1,6 +1,6 @@
 ## As you can see my name is Burak.
 ## I'm a CS freshman at Bilkent University.
-## My goal is to be a video game director. A director that knows almost all about gamemaking.
+## My goal is to graduate peacefully. Then I want to dive into video game industry.
 <!--
 **BurakOruk26/BurakOruk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
