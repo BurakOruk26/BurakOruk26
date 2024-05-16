@@ -1,6 +1,5 @@
 ## As you can see my name is Burak.
-## I'm a sophomore at Bilkent University Computer Science Department.
-## My goal is to dive into video game industry. Not only as an developer, also as a art designer.
+## I study at Bilkent University Computer Science Department.
 <!--
 **BurakOruk26/BurakOruk26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
